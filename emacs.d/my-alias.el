@@ -1,0 +1,2 @@
+(defalias 'll 'ls)
+
